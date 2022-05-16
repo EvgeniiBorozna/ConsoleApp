@@ -1,0 +1,138 @@
+﻿  ConsoleApplication1.cpp
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,26): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,31): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,36): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,36): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,41): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,46): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,46): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,51): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,51): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,56): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,56): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,61): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,61): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,66): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,66): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,71): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,76): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,76): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(11,81): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,38): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,38): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,55): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,55): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,72): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(12,72): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,26): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,31): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,36): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,36): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,41): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,46): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,46): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,51): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,51): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,56): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,56): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,61): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,61): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,66): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,66): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,71): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,76): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,76): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(13,81): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,38): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,38): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,55): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,55): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,72): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(14,72): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,26): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,31): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,36): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,36): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,41): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,46): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,46): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,51): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,51): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,56): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,56): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,61): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,61): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,66): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,66): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,71): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,76): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,76): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(15,81): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,38): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,38): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,55): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,55): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,72): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(16,72): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,21): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,26): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,31): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,36): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,36): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,41): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,46): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,46): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,51): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,51): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,56): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,56): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,61): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,61): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,66): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,66): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,71): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,76): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,76): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(17,81): warning C4309: 'initializing': truncation of constant value
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(51,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(51,12): message : consider using '%zd' in the format string
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(52,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(52,12): message : consider using '%zd' in the format string
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(53,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(53,12): message : consider using '%zd' in the format string
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(54,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Home\Proj\ConsoleApplication1\ConsoleApplication1.cpp(54,12): message : consider using '%zd' in the format string
+  ConsoleApplication1.vcxproj -> D:\Home\Proj\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
